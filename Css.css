@@ -1,0 +1,152 @@
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+            
+#root,  #main{
+    height: 100%;
+    width: 100%;
+}
+
+#app{
+    height: 100%;
+    width: 100%;
+}
+
+#contactus {
+    margin-top: 2rem !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#copyimg{
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 9px;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 23px;
+    cursor: pointer;
+}
+
+
+#h1 {
+    text-align: center;
+}
+#alert{
+  
+    width: 100%;
+}
+
+
+
+ #textarea {
+    height: 28vh;
+} 
+
+#darkmode {
+    margin-right: 0.5rem;
+}
+
+#flex{
+    height: 100rem !important;
+    align-content: flex-start;
+
+    color: rgb(146, 156, 248);
+}
+
+/* Media queries for responsiveness */
+/* @media (max-width: 520px) { 
+    #h1 {
+        margin-left: 4.7rem;
+        width: 73%;
+    }
+    .btnClass {
+        margin-top: 7px;
+        margin-left: 4.4rem;
+        width: 73%;
+    }
+    .TextSummary {
+        margin-top: 1rem;
+        margin-left: 5.4rem !important;
+        width: 70% !important;
+    }
+   
+    #services{
+        margin-left: 5.4rem !important;
+        width: 70%;
+    }
+}
+
+@media (min-width: 520px) and (max-width: 720px) {
+    #h1 {
+        margin-left: 7.3rem;
+        width: 65%;
+    }
+    .btnClass {
+        margin-top: 7px;
+        margin-left: 7rem;
+        width: 65% !important;
+    }
+    .TextSummary {
+        margin-left: 7.4rem !important;
+        margin-top: 1rem;
+        width: 65% !important;
+    }
+   
+    #services{
+        margin-left: 7.4rem !important;
+        margin-top: 2rem !important;
+        width: 65%;
+    }
+}
+
+@media (min-width: 720px) and (max-width: 900px) {
+    #h1 {
+        margin-left: 10rem;
+        width: 68%;
+    }
+    .btnClass {
+        margin-top: 7px;
+        margin-left: 10rem !important;
+        width: 68%;
+                margin-bottom: 1rem;
+    }
+    .TextSummary {
+        margin-left: 10.5rem !important;
+        width: 67% !important;    }
+   
+    
+     #services{
+        margin-left: 10.5rem;
+        margin-top: 3rem !important;
+        width: 68% !important; 
+    }
+    }
+
+@media (min-width: 900px) and (max-width: 1100px) {
+    #h1 {
+        margin-left: 14rem;
+        width: 65%;
+    }
+    .btnClass {
+        margin-top: 7px;
+        margin-left: 14rem;
+        width: 62%;
+    }
+    .TextSummary {
+        margin-left: 14.5rem;
+        margin-top: 1.5rem;
+        width: 500px !important;
+    }
+   
+    #services{
+        margin-left: 14.5rem;
+        margin-top: 0;
+        width: 62%;
+    }
+} */
+
+
+
